@@ -8,3 +8,5 @@ Metrics/BlockLength:
   Exclude:
     - spec/**/*
     - Rakefile
+Naming/PredicateMethod:
+  Enabled: false
